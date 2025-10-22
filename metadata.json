@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Mockups de UI Realistas",
+  "description": "Uma aplicação web que utiliza a API Gemini para gerar mockups de interface de usuário (UI) fotorrealistas a partir de descrições de texto. Os usuários podem especificar o que desejam criar e a aplicação produzirá uma imagem de alta fidelidade para inspiração e prototipagem.",
+  "requestFramePermissions": []
+}
